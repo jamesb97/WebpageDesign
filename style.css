@@ -12,7 +12,7 @@
   transform: translate(-70%, -70%);
 }
 .s1 {
-  background-image: url("./img/couch.jpg");
+  background-image: url("./couch.jpg");
   background-size: cover;
 }
 .section h1 {
@@ -44,6 +44,6 @@
   margin: 50px 0px;
 }
 .s3 {
-  background-image: url("./img/sofa.png");
+  background-image: url("./sofa.png");
   background-size: cover;
 }
